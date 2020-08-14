@@ -1,6 +1,6 @@
 {
   "name": "js-file-md5",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Get a MD5 hash from a file with Javascript",
   "main": "index.js",
   "scripts": {

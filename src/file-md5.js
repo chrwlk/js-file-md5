@@ -15,5 +15,3 @@ export const md5 = async file => (
     fileReader.readAsArrayBuffer(file);
   })
 );
-
-export { md5 as default };

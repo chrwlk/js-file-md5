@@ -1,4 +1,4 @@
-import md5 from '../src/file-md5';
+import md5 from '../index';
 
 const fileInput = document.querySelector('#example-file');
 
